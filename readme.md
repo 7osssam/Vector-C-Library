@@ -5,10 +5,10 @@ This project is a simple vector library implemented in C. It provides basic oper
 
 ## Project Structure
 
-The project is organized into two main directories: [`src`](command:_github.copilot.openRelativePath?%5B%22src%22%5D "src") and [`test`](command:_github.copilot.openRelativePath?%5B%22test%22%5D "test").
+The project is organized into two main directories: [`src`]( "src") and [`test`]( "test").
 
-- [`src`](command:_github.copilot.openRelativePath?%5B%22src%22%5D "src"): Contains the source code for the vector library.
-- [`test`](command:_github.copilot.openRelativePath?%5B%22test%22%5D "test"): Contains the test cases for the vector library.
+- [`src`]( "src"): Contains the source code for the vector library.
+- [`test`]( "test"): Contains the test cases for the vector library.
 
 ## Building the Project
 
@@ -24,7 +24,7 @@ This will compile the source code and generate an executable named `myprogram`.
 
 ## Dependencies
 
-The project uses the [Unity Test Framework for C]( https://github.com/ThrowTheSwitch/Unity) for testing. The relevant Unity header files are included in the [`test`](command:_github.copilot.openRelativePath?%5B%22test%22%5D "test") directory.
+The project uses the [Unity Test Framework for C]( https://github.com/ThrowTheSwitch/Unity) for testing. The relevant Unity header files are included in the [`test`]( "test") directory.
 
 ## Code Overview
 
